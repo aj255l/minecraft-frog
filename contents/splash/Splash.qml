@@ -61,12 +61,12 @@ Rectangle {
 
         AnimatedImage {
             id: face
-            source: "images/cat.gif"
+            source: "images/frog.gif"
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
-            width:  798
-            height: 598
+            width:  300
+            height: 225
             smooth: true
             visible: true
          }
